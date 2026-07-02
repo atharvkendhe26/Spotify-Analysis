@@ -1,13 +1,13 @@
-##Spotify Dashboard##
+**Spotify Dashboard**
 
-##Purpose
+**Purpose**
 
 The purpose of this project is to analyze Spotify listening data and convert raw streaming information into meaningful business
 insights through an interactive Power BI dashboard. The dashboard helps visualize user listening behavior, streaming trends, 
 artist performance, track engagement, and listening patterns. It enables users to monitor key metrics and make data-driven 
 decisions using interactive reports and visualizations.
 
-##Business Problem
+**Business Problem**
 
 Music streaming platforms generate massive amounts of listening data every day, making it difficult to understand user behavior
 and content performance through raw datasets alone. Without proper analysis, it is challenging to identify popular artists, track
@@ -15,7 +15,7 @@ engagement, listening trends, skip behavior, and peak listening periods. This pr
 centralized dashboard that provides clear insights into user engagement, streaming performance, and listening habits, helping stakeholders
 improve user experience and optimize content strategies.
 
-##Tools & Technologies
+**Tools & Technologies**
 
 Microsoft Power BI
 Power Query
@@ -25,7 +25,7 @@ Data Cleaning & Transformation
 Interactive Dashboard Design
 Data Visualization
 
-##Features
+**Features**
 
 The dashboard consists of three interactive pages that provide a complete analysis of Spotify listening data. 
 It includes KPI cards for total streams, listening hours, average listening time, and skip rate, along with interactive
@@ -33,9 +33,9 @@ slicers for dynamic filtering. Multiple visualizations such as line charts, bar 
 tables, and matrices are used to analyze monthly trends, daily listening activity, artist performance, track insights, listening categories,
 completed versus skipped tracks, and time-based listening behavior. The dashboard enables users to drill down into the data and explore insights interactively.
 
-##Key Insights
+**Key Insights**
 
-Overview
+**Overview**
 
 The Overview Dashboard provides a comprehensive summary of Spotify listening activity. A total of 149.86K 
 streams were recorded, with users spending 320.49K minutes (5.34K hours) listening to music across 4,112 
@@ -48,7 +48,7 @@ over Short Listening (38.91%), indicating users generally listen to songs for lo
 analysis further highlights that Morning (46.23%) is the most active listening period, followed by Night 
 (37.23%), while Afternoon (16.55%) has the lowest activity.
 
-Listening Analysis
+**Listening Analysis**
 
 The Listening Analysis Dashboard examines user behavior across days, weekdays, and artists. The daily 
 listening hours fluctuate throughout the month, with the highest listening activity observed around Day 21, 
@@ -61,7 +61,7 @@ generate more streams. Additionally, the monthly artist stream visualization sho
 consistently contribute a significant share of total streams throughout the year, although overall streaming 
 activity gradually decreases over the months.
 
-Artist & Track Insights
+**Artist & Track Insights**
 
 The Artist & Track Insights Dashboard focuses on detailed artist and track performance. The artist ranking 
 chart highlights the most streamed artists, while the track analysis identifies the songs with the highest total 
