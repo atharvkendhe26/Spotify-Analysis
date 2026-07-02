@@ -1,4 +1,5 @@
 Spotify Dashboard
+
 Purpose
 
  The purpose of this project is to analyze Spotify listening data and convert raw streaming information into meaningful business
